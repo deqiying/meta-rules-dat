@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "cm.steampowered.com",
+        "cdn.steampowered.com",
+        "fastly.cdn.steampipe.steamcontent.com",
+        "ol.epicgames.com"
+      ],
+      "domain_suffix": [
+        "ip6-localhost",
+        "ip6-loopback",
+        "local",
+        "localhost",
+        "international-gfe.download.nvidia.com",
+        "steamcontent.com",
+        "steamusercontent.com",
+        "steamserver.net",
+        "gov.cn",
+        "audiences.me",
+        "awesome-hd",
+        "broadcasthe.net",
+        "chdbits.co",
+        "classix-unlimited",
+        "dmhy.best",
+        "empornium.me",
+        "gazellegames.net",
+        "hdchina.org",
+        "hdsky.me",
+        "icetorrent.org",
+        "jpopsuki.eu",
+        "keepfrds.com",
+        "madsrevolution.net",
+        "m-team",
+        "nanyangpt.com",
+        "ncore.cc",
+        "open.cd",
+        "ourbits.club",
+        "passthepopcorn.me",
+        "privatehd.to",
+        "redacted.ch",
+        "sandai.net",
+        "springsunday.net",
+        "tjupt.org",
+        "totheglory.im",
+        "audiences.me"
+      ],
+      "domain_keyword": [
+        "postman",
+        "deqiying",
+        "wiki.ds-int",
+        "datastory",
+        "agefans",
+        "acl4.ssr",
+        "steamserver",
+        "steamcontent",
+        "steamusercontent",
+        "steampowered",
+        "announce",
+        "smtp",
+        "torrent"
+      ]
+    }
+  ]
+}
