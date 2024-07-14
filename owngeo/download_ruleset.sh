@@ -13,12 +13,17 @@ if [ ! -f ruleset_list.list ]; then
 fi
 
 # 读取 ruleset_list.list 并下载每个链接的文件
-while IFS= read -r url; do
+while IFS= read -r url || [ -n "$url" ]; do
     # 获取文件名
     filename=$(basename "$url")
 
     # 下载文件并覆盖同名文件
     wget -O "$filename" "$url"
+
+    # 如果下载的是脚本文件，赋予其可执行权限
+    if [ "$filename" = "download_ruleset.sh" ]; then
+        chmod +x "$filename"
+    fi
 done < ruleset_list.list
 
 echo "所有文件已下载并覆盖"
