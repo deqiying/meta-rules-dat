@@ -4,21 +4,13 @@
     {
       "domain": [
         "services.googleapis.cn",
-        "xn--ngstr-lra8j.com",
-        "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
-        "openaicomproductionae4b.blob.core.windows.net",
-        "production-openaicom-storage.azureedge.net",
-        "openaiapi-site.azureedge.net",
-        "chat.openai.com.cdn.cloudflare.net"
+        "xn--ngstr-lra8j.com"
       ],
       "domain_suffix": [
         "poe.com",
         "mvnrepository.com",
         "qbittorrent.org",
-        "ai.com",
-        "chatgpt.com",
-        "openai.com",
-        "gfe.nvidia.com",
+        "nvidia.com",
         "copilot.microsoft.com"
       ],
       "domain_keyword": [
