@@ -8,7 +8,7 @@ cd "$SCRIPT_DIR" || exit
 
 # 检查 ruleset_list.list 文件是否存在
 if [ ! -f ruleset_list.list ]; then
-    echo "ruleset_list.txt 文件不存在"
+    echo "ruleset_list.list 文件不存在"
     exit 1
 fi
 
@@ -20,8 +20,8 @@ while IFS= read -r url || [ -n "$url" ]; do
     # 下载文件并覆盖同名文件
     wget -O "$filename" "$url"
 
-    # 如果下载的是脚本文件，赋予其可执行权限
-    if [ "$filename" = "download_ruleset.sh" ]; then
+    # 如果下载的是 .sh 文件，赋予其可执行权限
+    if [ "${filename##*.}" = "sh" ]; then
         chmod +x "$filename"
     fi
 done < ruleset_list.list
