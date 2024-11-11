@@ -6,7 +6,8 @@
         "cm.steampowered.com",
         "cdn.steampowered.com",
         "fastly.cdn.steampipe.steamcontent.com",
-        "ol.epicgames.com"
+        "ol.epicgames.com",
+        "deqiying.com"
       ],
       "domain_suffix": [
         "ip6-localhost",
@@ -24,6 +25,7 @@
         "akamaized.net",
         "gov.cn",
         "asus.com",
+        "deqiying.com",
         "audiences.me",
         "awesome-hd",
         "broadcasthe.net",
@@ -62,6 +64,9 @@
         "announce",
         "smtp",
         "torrent"
+      ],
+      "ip_cidr": [
+        "38.47.104.213/32"
       ]
     }
   ]
