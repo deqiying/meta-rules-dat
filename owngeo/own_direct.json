@@ -65,9 +65,6 @@
         "announce",
         "smtp",
         "torrent"
-      ],
-      "ip_cidr": [
-        "38.47.104.213/32"
       ]
     }
   ]
