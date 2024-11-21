@@ -7,7 +7,8 @@
         "cdn.steampowered.com",
         "fastly.cdn.steampipe.steamcontent.com",
         "ol.epicgames.com",
-        "deqiying.com"
+        "deqiying.com",
+        "cdn-lfs.hf.co"
       ],
       "domain_suffix": [
         "ip6-localhost",
@@ -53,6 +54,7 @@
         "springsunday.net",
         "tjupt.org",
         "totheglory.im",
+        "cdn-lfs.hf.co",
         "audiences.me"
       ],
       "domain_keyword": [
