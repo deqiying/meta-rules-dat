@@ -2,6 +2,7 @@ param (
     [string]$subDirectory = "."
 )
 
+# .\compile-json.ps1 -subDirectory "owngeo"
 # 获取当前目录
 $currentDirectory = Get-Location
 
