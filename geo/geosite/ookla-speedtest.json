@@ -2,6 +2,7 @@
   "version": 1,
   "rules": [
     {
+      "domain": "www.speedtest.net.cdn.cloudflare.net",
       "domain_suffix": [
         "cdnst.net",
         "cellmaps.com",

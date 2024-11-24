@@ -2,7 +2,10 @@
   "version": 1,
   "rules": [
     {
-      "domain": "nvidia.tt.omtrdc.net",
+      "domain": [
+        "nvidia.tt.omtrdc.net",
+        "cn.download.nvidia.com"
+      ],
       "domain_suffix": [
         "nvidia.nl",
         "nvidiaforhp.com",

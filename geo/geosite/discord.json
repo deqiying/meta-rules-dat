@@ -2,7 +2,10 @@
   "version": 1,
   "rules": [
     {
-      "domain": "hammerandchisel.ssl.zendesk.com",
+      "domain": [
+        "discord-attachments-uploads-prd.storage.googleapis.com",
+        "hammerandchisel.ssl.zendesk.com"
+      ],
       "domain_suffix": [
         "dis.gd",
         "discord.co",

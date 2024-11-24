@@ -11,7 +11,9 @@
         "openaicom.imgix.net"
       ],
       "domain_suffix": [
+        "ai.com",
         "chatgpt.com",
+        "chat.com",
         "oaistatic.com",
         "oaiusercontent.com",
         "openai.com",

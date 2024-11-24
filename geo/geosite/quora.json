@@ -3,11 +3,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "poe.com",
-        "poecdn.net",
         "qr.ae",
         "quora.com",
-        "quoracdn.net"
+        "quoracdn.net",
+        "poe.com",
+        "poecdn.net"
       ]
     }
   ]

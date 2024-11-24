@@ -86,8 +86,6 @@
         "gstatic-cn.com",
         "gstaticadssl.l.google.com",
         "gtm.oasisfeng.com",
-        "gvt1-cn.com",
-        "gvt2-cn.com",
         "imasdk.googleapis.com",
         "monitoring.qatp1.net",
         "monitoring.qcpp1.net",
@@ -119,7 +117,6 @@
         "redirector.c.chat.google.com",
         "redirector.c.mail.google.com",
         "redirector.c.pack.google.com",
-        "redirector.c.play.google.com",
         "redirector.c.youtubeeducation.com",
         "redirector.gcpcdn.gvt1.com",
         "redirector.gvt1.com",
@@ -194,6 +191,7 @@
         "uberproxy-with-cn4.l.google.com",
         "uberproxy-with-cn6.l.google.com",
         "qiao-cn.com",
+        "redirector.c.play.google.com",
         "pki-goog.l.google.com",
         "c.pki.goog",
         "i.pki.goog",
@@ -210,6 +208,8 @@
         "googlecnapps.cn",
         "gstatic.cn",
         "gstaticcnapps.cn",
+        "gvt1-cn.com",
+        "gvt2-cn.com",
         "ggpht.cn"
       ]
     }

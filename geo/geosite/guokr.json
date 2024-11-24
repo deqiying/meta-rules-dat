@@ -2,7 +2,10 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": "guokr.com"
+      "domain_suffix": [
+        "guokr.com",
+        "guokr.net"
+      ]
     }
   ]
 }
