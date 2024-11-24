@@ -31,10 +31,7 @@
         "spotilocal.com",
         "tospotify.com"
       ],
-      "domain_keyword": [
-        "-spotify-",
-        "spotify.com"
-      ]
+      "domain_keyword": "spotify"
     }
   ]
 }
