@@ -4,11 +4,13 @@
     {
       "domain": [
         "services.googleapis.cn",
+        "v2ex.com",
         "xn--ngstr-lra8j.com"
       ],
       "domain_suffix": [
         "poe.com",
         "v2rayssr.com",
+        "v2ex.com",
         "mvnrepository.com",
         "qbittorrent.org",
         "nvidia.com",
