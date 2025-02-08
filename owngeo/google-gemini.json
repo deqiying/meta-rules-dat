@@ -5,11 +5,14 @@
       "domain": [
         "ai.google.dev",
         "alkalicore-pa.clients6.google.com",
+        "colab.research.google.com",
+        "content-developerprofiles-pa.googleapis.com",
         "alkalimakersuite-pa.clients6.google.com"
       ],
       "domain_suffix": [
         "deepmind.com",
         "deepmind.google",
+        "apis.google.com",
         "generativeai.google",
         "geller-pa.googleapis.com",
         "generativelanguage.googleapis.com",
@@ -18,6 +21,10 @@
         "aistudio.google.com",
         "bard.google.com",
         "gemini.google.com"
+      ],
+      "domain_keyword": [
+        "generativelanguage",
+        "developerprofiles"
       ]
     }
   ]
